@@ -1,1 +1,1 @@
-# Email-Project-Java
+# Email-Project-Student-Project-Java
